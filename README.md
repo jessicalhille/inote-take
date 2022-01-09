@@ -10,7 +10,7 @@
 
   ## Description
   A simple and easy-to-use note taking application that can be used to write and save notes. This application uses an Express.js back end and will save/retrieve note data from a JSON file.
-  ##### Link to Deployed Application (on Heroku): https://floating-basin-51458.herokuapp.com/notes
+  ##### Link to Deployed Application (on Heroku): https://floating-basin-51458.herokuapp.com
 
   ## Table of Contents
   * [Installation](#installation)
