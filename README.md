@@ -29,7 +29,7 @@
   * npm install uuid
 
   ## Usage
-  Clone the repository to use this application on a local machine. If you would like to use the deployed application for personal use, all you need to do is load it in your browser by following the link above.
+  Clone the repository to use this application on a local machine. 
   ### Screenshot of Deployed Application
  <img width="1094" alt="Screen Shot 2022-01-08 at 8 05 11 PM" src="https://user-images.githubusercontent.com/91511805/148666395-a6313a19-c897-40d7-b2d3-70de2022a7d9.png">
 
